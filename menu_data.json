@@ -1,0 +1,253 @@
+{
+  "Breakfast": [
+    {
+      "name": "Banana",
+      "protein": 1.3,
+      "serving": "1 medium banana",
+      "type": "Vegetarian",
+      "category": "fruit",
+      "role": "fruit"
+    },
+    {
+      "name": "Boiled Egg",
+      "protein": 6.0,
+      "serving": "1 egg",
+      "type": "Non-Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Besan Chila",
+      "protein": 7.0,
+      "serving": "1 medium chila",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Onion & Tomato Chutney",
+      "protein": 1.0,
+      "serving": "1 small serving",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    }
+  ],
+
+  "Lunch": [
+    {
+      "name": "Plain Rice",
+      "protein": 4.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "carbohydrate",
+      "role": "base"
+    },
+    {
+      "name": "Chapati",
+      "protein": 3.0,
+      "serving": "1 medium chapati",
+      "type": "Vegetarian",
+      "category": "carbohydrate",
+      "role": "base"
+    },
+    {
+      "name": "Panchamel Dal",
+      "protein": 7.0,
+      "serving": "1 standard bowl",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Cauliflower & Beans",
+      "protein": 3.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "vegetable",
+      "role": "vegetable"
+    },
+    {
+      "name": "Bhurji",
+      "protein": 6.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Malai Kofta Curry",
+      "protein": 5.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Drumstick Sambar",
+      "protein": 4.0,
+      "serving": "1 standard bowl",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Gold Finger",
+      "protein": 2.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Masala Chaach",
+      "protein": 3.0,
+      "serving": "1 glass",
+      "type": "Vegetarian",
+      "category": "dairy",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Carrot Tomato",
+      "protein": 1.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "vegetable",
+      "role": "vegetable"
+    },
+    {
+      "name": "Cucumber Salad",
+      "protein": 1.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "vegetable",
+      "role": "vegetable"
+    }
+  ],
+
+  "Snacks": [
+    {
+      "name": "Veg Cutlet",
+      "protein": 4.0,
+      "serving": "1 piece",
+      "type": "Vegetarian",
+      "category": "snack",
+      "role": "snack"
+    },
+    {
+      "name": "Ketchup",
+      "protein": 0.2,
+      "serving": "1 small serving",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Mint Chutney",
+      "protein": 0.5,
+      "serving": "1 small serving",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    }
+  ],
+
+  "Dinner": [
+    {
+      "name": "Plain Rice",
+      "protein": 4.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "carbohydrate",
+      "role": "base"
+    },
+    {
+      "name": "Chapati",
+      "protein": 3.0,
+      "serving": "1 medium chapati",
+      "type": "Vegetarian",
+      "category": "carbohydrate",
+      "role": "base"
+    },
+    {
+      "name": "Masoor Dal",
+      "protein": 8.0,
+      "serving": "1 standard bowl",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Tomato Curry",
+      "protein": 2.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "vegetable",
+      "role": "vegetable"
+    },
+    {
+      "name": "Soya 65",
+      "protein": 12.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "protein",
+      "role": "protein_source"
+    },
+    {
+      "name": "Paneer Masala Biryani",
+      "protein": 10.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "main",
+      "role": "substantial_main"
+    },
+    {
+      "name": "Chicken Hyderabadi Biryani",
+      "protein": 18.0,
+      "serving": "1 standard serving",
+      "type": "Non-Vegetarian",
+      "category": "main",
+      "role": "substantial_main"
+    },
+    {
+      "name": "Garlic Rasam",
+      "protein": 2.0,
+      "serving": "1 standard bowl",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Onion Lemon Salad",
+      "protein": 1.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "vegetable",
+      "role": "vegetable"
+    },
+    {
+      "name": "Fryums",
+      "protein": 1.0,
+      "serving": "1 small serving",
+      "type": "Vegetarian",
+      "category": "side",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Onion Raita",
+      "protein": 3.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "dairy",
+      "role": "accompaniment"
+    },
+    {
+      "name": "Ice Cream",
+      "protein": 3.0,
+      "serving": "1 standard serving",
+      "type": "Vegetarian",
+      "category": "dessert",
+      "role": "dessert"
+    }
+  ]
+}
